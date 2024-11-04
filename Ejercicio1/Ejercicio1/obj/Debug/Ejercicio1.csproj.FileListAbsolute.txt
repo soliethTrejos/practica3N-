@@ -1,0 +1,28 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.Up2Date
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\practica3N\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.Design.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.Up2Date
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\sesion20\practica3N-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
